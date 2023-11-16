@@ -1,0 +1,77 @@
+*{
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Lato', sans-serif;
+    
+}
+
+nav{
+    top:0;
+}
+
+body{
+    padding-top: 70px;
+}
+.navbar{
+
+    padding:10px 25px 10px 25px;
+}
+
+#தகவல்{
+    padding: 8px 25px 8px 25px;
+}
+
+#பயன்பாடு,#உருவாக்கியவர்கள்{
+    padding: 8px 0;
+}
+
+
+.top-content{
+    padding: 0;
+    margin:0;
+}
+
+.download{
+    display: flex;
+    font-size:0.75rem;
+    height: 65px;
+    width:320px;
+    color:white;
+    padding:10px;
+    background-color: black;
+    border-radius: 5%;
+}
+
+.download p{
+    padding-left: 10px;
+    margin:0;
+    padding-bottom: 10px;
+}
+
+.fa-google-play{
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+.about-text{
+    padding-top: 10px;
+    padding-left:25px;
+    padding-right:25px;
+    text-align: justify;
+    font-size:0.82rem;
+    margin:0;
+    
+}
+
+li{
+    font-size:0.82rem;
+    padding-right:25px;
+}
+hr{
+    background-color:gray;
+}
+
+.badge-class{
+    text-align:center;
+    display: block;
+    font-size: 1rem;
+    
+}
